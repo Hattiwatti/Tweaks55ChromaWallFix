@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "Tweaks55ChromaWallFix",
+  "name": "Tweaks55ChromaWallFix",
+  "author": "Hatti",
+  "version": "1.0.0",
+  "description": "Disables Chroma for obstacles if Tweaks55 wall outline color is enabled",
+  "gameVersion": "1.40.7",
+  "dependsOn": {
+    "BSIPA": "^4.2.0",
+    "Tweaks55": "^0.3.17",
+    "Chroma": "^2.9.20"
+  }
+}
